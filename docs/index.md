@@ -18,7 +18,7 @@ On ubuntu:
 sudo apt-get install gcc-avr binutils-avr gdb-avr avr-libc avrdude
 ```
 
-## Build/Program:
+## Build/Program
 
 ```sh
 make hex    # compile hex file
